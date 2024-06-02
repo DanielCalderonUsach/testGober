@@ -1,0 +1,49 @@
+Hola, les vengo a presentar una introducción a la aplicación Arithmo Phi desarrollada por estudiantes de la USACH para la enseñanza de Número enteros utilizando la Recta Continua.
+
+Para comenzar, realizamos un reconocimiento de una problemática que ha surgido a lo largo de los años en el ámbito de la educación, apuntando directamente al laborioso trabajo que realizan los profesores. Esto implica que debemos atender la problemática del poco tiempo que tienen ustedes a la hora de elaborar material de estudio además de las clases, la enorme cantidad de estudiantes por curso y la diferencia de nivel de aprendizaje entre los estudiantes.
+
+A partir de esto, es como nace la aplicación Arithmo Phi, la cual buscará solventar todos estos problemas y hacer de la vida docente un poco más fácil.
+
+Hablemos primero acerca del funcionamiento de la plataforma, específicamente sobre el Juego de Roles.
+
+En primera instancia, contaremos con un Coordinador el cual es el encargado de realizar las labores curriculares y el gestionamiento de profesores, cursos y de muchos otros conceptos que se explicarán más adelante, como por ejemplo la creación de plantillas.
+
+Por otro lado, se tendrán a los profesores, los cuales estarán a cargo de observar a sus estudiantes asignados. Esto conlleva a la creación de subgrupos de estudiantes, visualizar estadísticas mediante un dashboard o un panel visual de los resultados de los estudiantes y enviar solicitudes de modificación al Coordinador.
+
+Todas estas funcionalidades se explicarán más tarde, ya que debemos de dar a conocer ciertos conceptos antes de continuar.
+
+¿Qué es una plantilla y un Ejercicio dentro de la plataforma?
+Se entenderá como plantilla a nuestra base, de la cual surgirán los diversos ejercicios.
+Como se puede observar, a la izquierda tendríamos un ejemplo de plantilla, de la cual surgen 2 ejercicios distintos, ahora bien, la operatoria y sus valores cambiarán para tener esta variabilidad en las preguntas que se pueden llegar a realizar, todo esto sin cambiar nuestra base.
+
+¿Cómo sería un ejemplo de plantilla y ejercicio en la plataforma?
+En primer lugar, el Coordinador deberá crear una plantilla. Para ello podrá escoger entre nivel 1 = comparaciones, nivel 2 = suma y resta y nivel 3 = multiplicación y división.
+En este caso se opta por una plantilla de nivel 2.
+
+En segundo lugar, se deberá escoger el tema que tratará la plantilla, para ello tendremos 3 diferentes metáforas que usan la recta numérica continua. Saltos horizontales, hablar acerca de la temperatura y sobre alturas bajo y sobre el mar.
+En este caso se opta por el tema de la Temperatura.
+
+Por último, se deberá escoger a nuestros actores de la plantilla que estamos creando, para ello podrá seleccionar diferentes grupos. En este caso se opta por el Grupo 2.
+
+Teniendo todo lo anterior, se tendrá la siguiente plantilla junto a todas las características que se han seleccionado con anterioridad, donde se puede observar un contexto y a los actores de nuestra plantilla con sus respectivos valores, los cuales se encuentran entre aquellos corchetes, además de una recta numérica con forma de termómetro.
+
+Pasando al profesor, éste generará los ejercicios con tal de que aquellos campos que se encontraban entre corchetes, tomen valores de manera aleatoria, pero sin escaparse del contexto. Finalmente, se puede visualizar al ejercio respondido de manera correcta ya que los actores fueron arrastrados a nuestra recta numérica con forma de termómetro.
+
+Ahora, cuáles serán sus funciones específicas dentro de la plataforma.
+Usted como Coordinador, tendrá las siguientes tareas las cuales se hablará a continuación.
+
+La primera de ellas es la creación y administración de profesores, donde un Coordinador puede agregar profesores en la plataforma. Teniendo al profesor, usted podrá modificar sus datos o bien eliminarlo de la aplicación.
+
+Otra de las tareas es la de crear cursos, los cuales podrá asignar libremente a los profesores a cargo, de esta forma tendríamos los profesores del 7A, 7B y 7C. En los cursos podrá añadir estudiantes, modificar los cursos y/o estudiantes que lo conforman, además de eliminar ambas partes.
+
+La tercera implica en la creación de las plantillas, donde al realizar todo lo mencionado antes, obtendremos nuestra plantilla, la cual es enviada con copia a todos los profesores inscritos en la plataforma. Esta plantilla puede ser tanto eliminada como modificada. Una vez que se haya modificado alguna plantilla, el cambio se verá reflejado en todas las copias enviadas a los profesores.
+
+La última tarea consiste en un sistema de permisos en que, muchos de los profesores enviarán solicitudes de cambio, como las que aparecen en pantalla. Usted como Coordinador tendrá la labor de aprobar o rechazar estas solicitudes, donde la respuesta será enviada a los respectivos profesores. Todos los cambios solicitados se verán reflejados con el tiempo.
+
+Ahora bien, cómo tendrán que evaluar la aplicación.
+En primer lugar, todos los evaluadores serán pre-ingresados en la plataforma. Además se les enviará un Excel donde tendrán que realizar Pruebas de Aceptación de Usuario, las cuales serán una serie de pasos a seguir para que puedan observar el funcionamiento de la aplicación.
+Todo esto vendrá datos pre-ingresados, todo para que el proceso sea lo más expedito posible.
+Y por último, se sugiere que las pruebas se realicen de una sola vez, es decir, no repetir ninguna instrucción. Todo esto para que no se pierda el contexto de las evaluaciones previas ya que hay algunas que están relacionadas.
+
+Eso sería todo, muchas gracias por su atención.
+
