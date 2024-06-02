@@ -1,0 +1,106 @@
+Credenciales: pass: arithmocfk
+		pass app: szhkgpucwxbhjalg
+
+
+Bienvenida Coordinadores: https://youtu.be/049xXo54-ZM
+Coordinadores - Iniciar y Cerrar Sesión: https://youtu.be/QhizBpJtKGU
+Coordinadores - Crear Curso: https://youtu.be/m20T7p37Ieg
+Coordinadores - Crear Plantilla: https://youtu.be/u6gB0WGKBB0
+Coordinadores - Crear Profesor: https://youtu.be/BtNRjYxV_-w
+Coordinadores - Editar Configuración: https://youtu.be/sAk-P_9kkhQ
+Coordinadores - Editar Estudiante dentro de un Curso: https://youtu.be/HGCiJm5z5zE
+Coordinadores - Eliminar Estudiante de un Curso: https://youtu.be/9m6uBYw3xhA
+Coordinadores - Eliminar Plantilla: https://youtu.be/5A_uEHaD2Qs
+Coordinadores - Eliminar Profesor: https://youtu.be/Ngpx_8gPIoY
+Coordinadores - Ingresar Estudiante a Curso: https://youtu.be/xvbujQ9HS6c
+Coordinadores - Modificar Profesor: https://youtu.be/2tbbkGnDZGs
+Coordinadores - Solicitud Plantilla: https://youtu.be/OGmmtV7N2Z0
+Coordinadores - Solicitud Mensajería: https://youtu.be/RiBLJW2H_nI
+
+Coordinadores - Profesores: https://www.youtube.com/playlist?list=PLJ1Q8D3gXR0-H-o6rgHV3vvAYV-KDnF9x
+Coordinadores - Cursos: https://www.youtube.com/playlist?list=PLJ1Q8D3gXR0_OXlbUAjATrUKcl3Te7mPx
+Coordinadores - Plantillas: https://www.youtube.com/playlist?list=PLJ1Q8D3gXR0-xESjA832oaOxNWHK0Nx9r
+Coordinadores - Configuración: https://www.youtube.com/playlist?list=PLJ1Q8D3gXR08LeuXx8IHHudMpOMUXZtrc
+Coordinadores - Inicio: https://www.youtube.com/playlist?list=PLJ1Q8D3gXR09OETgHxX_OOg9_1KdBj-kU
+Coordinadores - Solicitudes: https://www.youtube.com/playlist?list=PLJ1Q8D3gXR097-OKbKit1zUTBubuu1aa9
+
+
+Bienvenida Profesores: https://youtu.be/yGfE3QdDfn4
+Profesores - Iniciar y Cerrar Sesión: https://youtu.be/u0nny7PYiu8
+Profesores - Cambiar Nombre de Grupo: https://youtu.be/pwdNvytXUvM
+Profesores - Compartir Plantilla: https://youtu.be/3hq6p0Be3as
+Profesores - Crear Grupo: https://youtu.be/-uGPe80_LF4
+Profesores - Editar Feedback: https://youtu.be/_3TyySfyslY
+Profesores - Editar Herramientas: https://youtu.be/-sC4wVVR3-o
+Profesores - Editar Plantilla Propia: https://youtu.be/XPXD_65ToA4
+Profesores - Eliminar Estudiante de Grupo: https://youtu.be/8tSClGYdklo
+Profesores - Eliminar Grupo: https://youtu.be/aWw0way4p6Q
+Profesores - Enviar Solicitud: https://youtu.be/nT1nMfL2a3s
+Profesores - Generar Ejercicios: https://youtu.be/P9mpn9Z9Gd0
+Profesores - Ingresar Estudiante a un Grupo: https://youtu.be/IghHRiA9OpI
+Profesores - Previsualizar como Estudiante un Ejercicio: https://youtu.be/YHSBHHs0qn4
+Profesores - Simular Estadísticas: https://youtu.be/xyfNFNXvdKI
+Profesores - Visualizar Curso: https://youtu.be/yiEQN5UULRk
+Profesores - Visualizar Ejercicios: https://youtu.be/N8emYGhPKHs
+
+
+Profesores - Configuración: https://www.youtube.com/playlist?list=PLJ1Q8D3gXR0_u9MqJUgshn9yQtwnMR3z6
+Profesores - Dashboard: https://www.youtube.com/playlist?list=PLJ1Q8D3gXR09Kk3-DD0gPIWsJZMhl8t5i
+Profesores - Ejercicios: https://www.youtube.com/playlist?list=PLJ1Q8D3gXR08jbbeMqY7HuKfz886kiapK
+Profesores - Estudiantes: https://www.youtube.com/playlist?list=PLJ1Q8D3gXR09Kzc_M32uXzeeg3OU7cjMt
+Profesores - Inicio: https://www.youtube.com/playlist?list=PLJ1Q8D3gXR0_QsnPJfELh-nyyouCCjZ5B
+Profesores - Plantillas: https://www.youtube.com/playlist?list=PLJ1Q8D3gXR0-UYSRpniPA1OHl0hFxccr-
+
+
+Hola, les vengo a presentar una introducción a la aplicación Arithmo Phi desarrollada por estudiantes de la USACH para la enseñanza de Número enteros utilizando la Recta Continua.
+
+Para comenzar, realizamos un reconocimiento de una problemática que ha surgido a lo largo de los años en el ámbito de la educación, apuntando directamente al laborioso trabajo que realizan los profesores. Esto implica que debemos atender la problemática del poco tiempo que tienen ustedes a la hora de elaborar material de estudio además de las clases, la enorme cantidad de estudiantes por curso y la diferencia de nivel de aprendizaje entre los estudiantes.
+
+A partir de esto, es como nace la aplicación Arithmo Phi, la cual buscará solventar todos estos problemas y hacer de la vida docente un poco más fácil.
+
+Hablemos primero acerca del funcionamiento de la plataforma, específicamente sobre el Juego de Roles.
+
+En primera instancia, contaremos con un coordinador el cual es el encargado de realizar las labores curriculares y el gestionamiento de profesores, cursos y de muchos otros conceptos que se explicarán más adelante, como por ejemplo la creación de plantillas.
+
+Por otro lado, se tendrán a los profesores, los cuales estarán a cargo de observar a sus estudiantes asignados. Esto conlleva a la creación de subgrupos de estudiantes, visualizar estadísticas mediante un dashboard o un panel visual de los resultados de los estudiantes y enviar solicitudes de modificación al Coordinador.
+
+Todas estas funcionalidades se explicarán más tarde, ya que debemos de dar a conocer ciertos conceptos antes de continuar.
+
+¿Qué es una plantilla y un Ejercicio dentro de la plataforma?
+Se entenderá como plantilla a nuestra base, de la cual surgirán los diversos ejercicios.
+Como se puede observar, a la izquierda tendríamos un ejemplo de plantilla, de la cual surgen 2 ejercicios distintos, ahora bien, la operatoria y sus valores cambiarán para tener esta variabilidad en las preguntas que se pueden llegar a realizar, todo esto sin cambiar nuestra base.
+
+¿Cómo sería un ejemplo de plantilla y ejercicio en la plataforma?
+En primer lugar, el Coordinador deberá crear una plantilla. Para ello podrá escoger entre nivel 1 = comparaciones, nivel 2 = suma y resta y nivel 3 = multiplicación y división.
+En este caso se opta por una plantilla de nivel 2.
+
+En segundo lugar, se deberá escoger el tema que tratará la plantilla, para ello tendremos 3 diferentes metáforas que usan la recta numérica continua. Saltos horizontales, hablar acerca de la temperatura y sobre alturas bajo y sobre el mar.
+En este caso se opta por el tema de la Temperatura.
+
+Por último, se deberá escoger a nuestros actores de la plantilla que estamos creando, para ello podrá seleccionar diferentes grupos. En este caso se opta por el Grupo 2.
+
+Teniendo todo lo anterior, se tendrá la siguiente plantilla junto a todas las características que se han seleccionado con anterioridad, donde se puede observar un contexto y a los actores de nuestra plantilla con sus respectivos valores, los cuales se encuentran entre aquellos corchetes, además de una recta numérica con forma de termómetro.
+
+Pasando al profesor, éste generará los ejercicios con tal de que aquellos campos que se encontraban entre corchetes, tomen valores de manera aleatoria, pero sin escaparse del contexto. Finalmente, se puede visualizar al ejercio respondido de manera correcta ya que los actores fueron arrastrados a nuestra recta numérica con forma de termómetro.
+
+Ahora, cuáles serán sus funciones específicas dentro de la plataforma.
+Usted como profesor o profesora, tal como puede observar, tendrá las siguientes tareas las cuales se hablará a continuación.
+
+La primera de ellas es la creación y administración de de Grupos de estudiantes, donde el profesor del 7C creará un grupo a partir del mismo curso. En él podrá agregar estudiantes conformando lo que sería el grupo n1. Ahora bien, este grupo puede eliminarlo o modificarlo, lo cual implicaría en cambios como el nombre del grupo o agregar/eliminar estudiantes.
+
+Otra de las tareas importantes es la generación de ejercicios, donde tendrá que escoger entre si generar ejercicios para su curso o para un grupo en específico. Luego, debe de escoger la plantilla en la cual se basarán todos los ejercicios. Finalmente, se puede observar que, a partir de la plantilla en pantalla, se generán los ejercicios n1 y n2
+
+En la tercera tarea, tendrá que volver a elegir entre su curso y un grupo de estudiantes. Aquí podrá visualizar las respuestas correctas, incorrectas e incluso, aquellas que no se han podido responder. Para facilitar esta observación, lo podrá mirar mediante algunos gráficos o tablas que mostrarán toda la estadística del curso o grupo seleccionado.
+
+En la cuarta tarea, volverá a escoger entre su curso asignado y un grupo de estudiantes. En este punto, podrá realizar una simulación de lo que sería observar cierto número de respuestas correctas, incorrectas y no respondidas. Todo esto visualizado en un panel mostrando tablas y gráficos, tal como la tarea anterior.
+
+Para la última tarea, ustedes como profesores, podrán enviar una solicitud, las cuales pueden ser las que se muestran en pantalla, todo para poder solucionar algunos problemas curriculares que no hayan sido vistos por el coordinador. Una vez llega a los coordinadores, éstos podrán rechazar o aceptar la solicitud, generando una respuesta. En el caso de que la solicitud se haya aceptado, podrá ver los cambios reflejados con el tiempo.
+Ahora bien, cómo tendrán que evaluar la aplicación.
+
+En primer lugar, todos los evaluadores serán pre-ingresados en la plataforma. Además se les enviará un Excel donde tendrán que realizar Pruebas de Aceptación de Usuario, las cuales serán una serie de pasos a seguir para que puedan observar el funcionamiento de la aplicación.
+Todo esto vendrá datos pre-ingresados, todo para que el proceso sea lo más expedito posible.
+Y por último, se sugiere que las pruebas se realicen de una sola vez, es decir, no repetir ninguna instrucción. Todo esto para que no se pierda el contexto de las evaluaciones previas ya que hay algunas que están relacionadas.
+
+Eso sería todo, muchas gracias por su atención.
+
+
