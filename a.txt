@@ -1,0 +1,56 @@
+Exif Makernote:
+Make	Apple	
+Model	iPhone 13	
+Orientation	Right side, top (Rotate 90 CW)	
+X Resolution	72 dots per inches	
+Y Resolution	72 dots per inches	
+Resolution Unit	Inches	
+Software	16.0.3	
+Date/Time	2022:10:13 15:23:14	
+Tile Width	512	
+Tile Length	512	
+YCbCr Positioning	Center of pixel array	
+Exposure Time	1/5848 sec	
+F-Number	F 1,6	
+Exposure Program	Program normal	
+ISO Speed Ratings	50	
+Exif Version	2.32	
+Date/Time Original	2022:10:13 15:23:14	
+Date/Time Digitized	2022:10:13 15:23:14	
+Components Configuration	YCbCr	
+Shutter Speed Value	1/5847 sec	
+Aperture Value	F 1,6	
+Brightness Value	102657/9694	
+Exposure Bias Value	0	
+Metering Mode	Multi-segment	
+Flash	Flash did not fire, Auto	
+Focal Length	5,1 mm	
+Subject Location	2018 1506 2319 1325	
+Sub-Sec Time Original	512	
+Sub-Sec Time Digitized	512	
+FlashPix Version	1.00	
+Color Space	Undefined	
+Exif Image Width	4032 pixels	
+Exif Image Height	3024 pixels	
+Sensing Method	One-chip color area sensor	
+Scene Type	Directly photographed image	
+Exposure Mode	Auto exposure	
+White balance mode	Auto white balance	
+Digital Zoom Ratio	1,52881698685541	
+Focal Length in 35mm Film	39 mm	
+Scene Capture Type	Standard	
+	
+GPS Makernote:
+GPS Latitude Ref	S	
+GPS Latitude	33"29'54,19	
+GPS Longitude Ref	W	
+GPS Longitude	70"36'19,22	
+GPS Altitude Ref	Sea level	
+GPS Altitude	811515/1414 metres	
+GPS Speed Ref	kph	
+GPS Speed	0	
+GPS Img Direction Ref	True direction	
+GPS Img Direction	2168389/8047 degrees	
+GPS Dest Bearing Ref	True direction	
+GPS Dest Bearing	2168389/8047 degrees	
+	
